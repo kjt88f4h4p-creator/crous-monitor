@@ -1,1 +1,4 @@
-# crous-monitor
+# requirements.txt
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.1
